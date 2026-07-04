@@ -25,10 +25,20 @@ I enjoy building secure, clean, and scalable web applications using PHP and MySQ
 
 ## 📌 Projects
 
-- **Student Management System (ERP System)**  
-  A PHP & MySQL based system with role-based access, secure authentication, and an admin dashboard.  
-  Designed with a metadata-driven architecture (similar to CMS platforms like WordPress), enabling dynamic configuration and flexible data handling.  
-  Implemented dynamic UI interactions using AJAX and jQuery to enhance user experience.
+## Multi Tenant SAAS Application
+
+A comprehensive ERP system for schools and colleges built using **PHP, MySQL, AJAX, jQuery, Bootstrap, HTML, CSS, and JavaScript**.
+
+### Key Features
+- Role-based authentication and secure login system (Super Admin, Admin, Teacher, Student).
+- Metadata-driven architecture (inspired by CMS platforms like WordPress) for dynamic forms and flexible data management.
+- Dynamic Course, Branch, Semester, Class, Section, and Session Management.
+- Dynamic Timetable Management with lecture scheduling for schools and colleges.
+- QR Code and AI-powered Face Recognition Attendance System with liveness detection (Blink + Head Movement) using **Python, Flask, InsightFace, and MediaPipe**.
+- Student, Teacher, Subject, and Academic Management modules.
+- AJAX and jQuery based dynamic UI for seamless user experience without full page reloads.
+- Secure CRUD operations using MySQL Prepared Statements to prevent SQL Injection.
+- Responsive Admin Dashboard with Bootstrap and modern UI components.
 
 - **E-commerce Website (Core PHP)**  
   A Core PHP based e-commerce platform featuring product management, user authentication, and cart functionality.  
