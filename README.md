@@ -40,7 +40,8 @@ A comprehensive ERP system for schools and colleges built using **PHP, MySQL, AJ
 - Secure CRUD operations using MySQL Prepared Statements to prevent SQL Injection.
 - Responsive Admin Dashboard with Bootstrap and modern UI components.
 
-- **E-commerce Website (Core PHP)**  
+- ## E-commerce Website
+ 
   A Core PHP based e-commerce platform featuring product management, user authentication, and cart functionality.  
   Designed to promote user independence and business sustainability by providing complete control over products, pricing, and content without third-party dependency.
 
